@@ -1,13 +1,8 @@
-### Hi there , Let's Connect 👋
+### Hi there , I'm Ayush 👋
 
-<!--
-**ayushgupta9198/ayushgupta9198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+_Artificial Intelligence Engineer (Machine Learning , Deep Learning , Python) :ghost: | from Knowledge import Wisdom :book: | AI Speaker :microphone: | YouTuber | Content Creator | 
 
 - 🔭 About me ... 
-
-Artificial Intelligence Engineer (Machine Learning , Deep Learning , Python) :ghost: | from Knowledge import Wisdom :book: | AI Speaker :microphone: | YouTuber | Content Creator | 
 
 I am an IT professional having more than 5+ years experience in different domains like Quality Assurance , Associate Data Scientist and now working as Senior Artificial Intelligence Developer. I had experience to work with mulitple modules in and out which help to fullfill the requirement moreover apart from this I am enaging myself into creating videos on latest trending projects in Youtube aslo I am taking technical webniar/seesion on AI-ML.
 
