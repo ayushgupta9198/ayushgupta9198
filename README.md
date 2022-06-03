@@ -2,13 +2,13 @@
 
 Artificial Intelligence Engineer (Machine Learning , Deep Learning , Python) :ghost: | from Knowledge import Wisdom :book: | AI Speaker :microphone: | YouTuber | Content Creator | 
 
-- 🔭 About me ... 
+🔭 About me ... 
 
 I am an IT professional having more than 5+ years experience in different domains like Quality Assurance , Associate Data Scientist and now working as Senior Artificial Intelligence Developer. I had experience to work with mulitple modules in and out which help to fullfill the requirement moreover apart from this I am enaging myself into creating videos on latest trending projects in Youtube aslo I am taking technical webniar/seesion on AI-ML.
 
 So I think you’ll find the skills you’re looking for …
 
-- Review me as  ... 
+- **Review me as ** ... 
 
     • An expert and creative problem solver and comfortable operating in a rapidly changing and uncertain environment
 
@@ -34,14 +34,14 @@ So I think you’ll find the skills you’re looking for …
 
     • Impulse to learn and master new technologies.
 
-Connect with me ...
+**Connect with me** ...
 
-Email : ayush227316@gmail.com
+**Email** : ayush227316@gmail.com
 
-Linkedin : www.linkedin.com/in/b09a1b105
+**Linkedin** : www.linkedin.com/in/b09a1b105
 
-Portfolio : https://ayush227316.wixsite.com/ayushgupta
+**Portfolio** : https://ayush227316.wixsite.com/ayushgupta
 
-Youtube : https://www.youtube.com/channel/UC4T71mV-DuVRePclKdbs11Q 
+**Youtube** : https://www.youtube.com/channel/UC4T71mV-DuVRePclKdbs11Q 
 
 
