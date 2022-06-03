@@ -1,6 +1,6 @@
 ### Hi there , I'm Ayush 👋
 
-_Artificial Intelligence Engineer (Machine Learning , Deep Learning , Python) :ghost: | from Knowledge import Wisdom :book: | AI Speaker :microphone: | YouTuber | Content Creator | 
+Artificial Intelligence Engineer (Machine Learning , Deep Learning , Python) :ghost: | from Knowledge import Wisdom :book: | AI Speaker :microphone: | YouTuber | Content Creator | 
 
 - 🔭 About me ... 
 
@@ -41,5 +41,7 @@ Email : ayush227316@gmail.com
 Linkedin : www.linkedin.com/in/b09a1b105
 
 Portfolio : https://ayush227316.wixsite.com/ayushgupta
+
+Youtube : https://www.youtube.com/channel/UC4T71mV-DuVRePclKdbs11Q 
 
 
