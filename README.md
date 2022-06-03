@@ -34,9 +34,12 @@ So I think you’ll find the skills you’re looking for …
 
     • Impulse to learn and master new technologies.
 
-hammer_and_wrench Skills
+Connect with me ...
 
-python 
+Email : ayush227316@gmail.com
 
-link Links
-portfolio resume upwork linked-in dev.to github medium gmail instagram
+Linkedin : www.linkedin.com/in/b09a1b105
+
+Portfolio : https://ayush227316.wixsite.com/ayushgupta
+
+
