@@ -55,3 +55,21 @@ Review me as ...
 </a></p>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgupta9198)](https://github.com/ayushgupta9198/ayushgupta9198/blob/main/README.md)
+
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgupta9198&show_icons=true)
+
+
