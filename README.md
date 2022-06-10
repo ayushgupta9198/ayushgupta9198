@@ -1,4 +1,6 @@
 ### Hi there , I'm Ayush 👋
+![](https://komarev.com/ghpvc/?username=ayushgupta9198&color=green)
+
 
 Artificial Intelligence Engineer (Machine Learning , Deep Learning , Python) :ghost: | from Knowledge import Wisdom :book: | AI Speaker :microphone: | YouTuber | Content Creator | 
 
