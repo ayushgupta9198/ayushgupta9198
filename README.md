@@ -54,4 +54,3 @@ Review me as ...
   <img src="https://contrib.rocks/image?repo=angular/angular-ja" />
 </a>
 
-
