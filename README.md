@@ -8,7 +8,7 @@ I am an IT professional having more than 5+ years experience in different domain
 
 So I think you’ll find the skills you’re looking for …
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9198&layout=compact)](https://github.com/ayushgupta9198/ayushgupta9198/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9198&layout=compact&theme=blue-green)](https://github.com/ayushgupta9198/ayushgupta9198/edit/main/README.md)
 
 
 Review me as ... 
@@ -53,17 +53,6 @@ Review me as ...
 <p align="center"><a href="https://github.com/LeCoupa/awesome-cheatsheets/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=LeCoupa/awesome-cheatsheets" />
 </a></p>
-
-
-
-
-
-
-
-
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9198&theme=blue-green)
-
 
 
 
