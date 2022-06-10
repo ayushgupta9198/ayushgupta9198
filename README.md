@@ -1,62 +1,41 @@
-### Hi there , I'm Ayush 👋
-![](https://komarev.com/ghpvc/?username=ayushgupta9198&color=green)
+<h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushgupta9198&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgupta9198" /> </p>
 
-Artificial Intelligence Engineer (Machine Learning , Deep Learning , Python) :ghost: | from Knowledge import Wisdom :book: | AI Speaker :microphone: | YouTuber | Content Creator | 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgupta9198" alt="ayushgupta9198" /></a> </p>
 
-🔭 About me ... 
+- 🔭 I’m currently working on **""Confidential""**
 
-I am an IT professional having more than 5+ years experience in different domains like Quality Assurance , Associate Data Scientist and now working as Senior Artificial Intelligence Developer. I had experience to work with mulitple modules in and out which help to fullfill the requirement moreover apart from this I am enaging myself into creating videos on latest trending projects in Youtube aslo I am taking technical webniar/seesion on AI-ML.
+- 🌱 I’m currently learning **Other aspects of Data Science | AI-ML-DL**
 
-So I think you’ll find the skills you’re looking for …
+- 👯 I’m looking to collaborate on **Data Science , Artificial Intelligence , Machine Learning , Deep Learning , Content Creator , Technical Webinar/sessions , Technical Spealrf**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9198&layout=compact&theme=blue-green)](https://github.com/ayushgupta9198/ayushgupta9198/edit/main/README.md)
+- 🤝 I’m looking to help with **I am a highly motivated individual driven to find the gaps and innovate ways to serve. One of my personal values and highest priorities is It is important for me to serve my work through community, organizing, mentoring, and planning events. I believe in being a supportive and driver of positive change that serve others and welcoming the opportunities to serve on a board with intersection of business, entrepreneurship, social responsibility and industry connections.**
 
+- 👨‍💻 Portfolio [https://ayush227316.wixsite.com/ayushgupta](https://ayush227316.wixsite.com/ayushgupta)
 
-Review me as ... 
+- 📝 I write articles on Linkedin [www.linkedin.com/in/b09a1b105](www.linkedin.com/in/b09a1b105)
 
-    • An expert and creative problem solver and comfortable operating in a rapidly changing and uncertain environment
+- 💬 About me **I am an IT professional having more than 5+ years experience in different domains like Quality Assurance , Associate Data Scientist and now working as Senior Artificial Intelligence Developer. I had experience to work with multiple modules in and out which help to fulfill the requirement moreover apart from this I am engaging myself into creating videos on latest trending projects in YouTube also I am taking technical webinar/session on AI-ML.**
 
-    • Possess solid knowledge of AI & Machine learning concepts capable of translating the requirements into programs using Python.
+- 📫 How to reach me **ayush227316@gmail.com**
 
-    • Experience with debugging and building fielded AI modules.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Waxcb9VXg_Qr9Ge5i4VTwT-kdOYbi2Ui/view?usp=sharing](https://drive.google.com/file/d/1Waxcb9VXg_Qr9Ge5i4VTwT-kdOYbi2Ui/view?usp=sharing)
 
-    • Working with existing code base to develop and enhance skills by handling various phases like Research, AI strategies, Rules and world interaction.
+- ⚡ YouTube **https://www.youtube.com/channel/UC4T71mV-DuVRePclKdbs11Q**
 
-    • Collaborating with other software personnel and implementings well-engineered, reliable, maintainable, and bug-free code for various platforms.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/b09a1b105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/b09a1b105" height="30" width="40" /></a>
+<a href="https://kaggle.com/ayush227316@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayush227316@gmail.com" height="30" width="40" /></a>
+<a href="https://medium.com/@ayush227316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayush227316" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc4t71mv-duvrepclkdbs11q/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4t71mv-duvrepclkdbs11q/featured" height="30" width="40" /></a>
+</p>
 
-    • Continuously and autonomously learning new techniques, evaluating applications to business problems, developing solutions and sharing them with colleagues.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-    • Build statistical models to support strategic decision making and key campaign based activity
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgupta9198&show_icons=true&locale=en&layout=compact" alt="ayushgupta9198" /></p>
 
-    • Strong commitment about staying updated with the latest trends and techniques in areas such as machine learning.
-
-    • Must be flexible, able to balance multiple projects concurrently and enjoy a fast-moving, evolving environment
-
-    • Excellent written and verbal communication skills including the ability to effectively understand business requirements
-
-    • Good skills to promote cross-team collaboration
-
-    • Impulse to learn and master new technologies.
-
-**Connect with me** ...
-
-**Email** : ayush227316@gmail.com
-
-**Linkedin** : www.linkedin.com/in/b09a1b105
-
-**Portfolio** : https://ayush227316.wixsite.com/ayushgupta
-
-**Youtube** : https://www.youtube.com/channel/UC4T71mV-DuVRePclKdbs11Q 
-
-
-## 👩‍💻👨‍💻 valuable Contributors
-
-<p align="center"><a href="https://github.com/LeCoupa/awesome-cheatsheets/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=LeCoupa/awesome-cheatsheets" />
-</a></p>
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9198&" alt="ayushgupta9198" /></p>
