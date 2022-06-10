@@ -55,3 +55,6 @@ Review me as ...
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9198)](https://github.com/ayushgupta9198/ayushgupta9198/edit/main/README.md)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushgupta9198&repo=github-readme-stats)](https://github.com/ayushgupta9198/ayushgupta9198/edit/main/README.md)
