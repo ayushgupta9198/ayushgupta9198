@@ -62,14 +62,10 @@ Review me as ...
 
 
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9198&theme=blue-green)
 
 
 
 
-
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgupta9198)](https://github.com/ayushgupta9198/ayushgupta9198/blob/main/README.md)
-
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgupta9198&show_icons=true)
 
 
