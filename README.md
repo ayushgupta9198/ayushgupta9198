@@ -8,6 +8,9 @@ I am an IT professional having more than 5+ years experience in different domain
 
 So I think you’ll find the skills you’re looking for …
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9198&layout=compact)](https://github.com/ayushgupta9198/ayushgupta9198/edit/main/README.md)
+
+
 Review me as ... 
 
     • An expert and creative problem solver and comfortable operating in a rapidly changing and uncertain environment
@@ -45,16 +48,10 @@ Review me as ...
 **Youtube** : https://www.youtube.com/channel/UC4T71mV-DuVRePclKdbs11Q 
 
 
-<a href="https://github.com/ayushgupta9198/ayushgupta9198/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ayushgupta9198/ayushgupta9198" />
-</a>
+## 👩‍💻👨‍💻 valuable Contributors
+
+<p align="center"><a href="https://github.com/LeCoupa/awesome-cheatsheets/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=LeCoupa/awesome-cheatsheets" />
+</a></p>
 
 
-<a href="https://github.com/angular/angular-ja/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=angular/angular-ja" />
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9198)](https://github.com/ayushgupta9198/ayushgupta9198/edit/main/README.md)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushgupta9198&repo=github-readme-stats)](https://github.com/ayushgupta9198/ayushgupta9198/edit/main/README.md)
