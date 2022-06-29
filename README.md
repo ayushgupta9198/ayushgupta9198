@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 
-Schweinepriester/github-profile-achievements#15 
-
-
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgupta9198&theme=white-red alt="ayushgupta9198" /></a> </p>
