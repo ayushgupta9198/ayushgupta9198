@@ -2,8 +2,6 @@
 
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgupta9198&theme=white-red alt="ayushgupta9198" /></a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgupta9198&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="ayushgupta9198" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgupta9198&show_icons=true&locale=en" alt="ayushgupta9198" /></p>
