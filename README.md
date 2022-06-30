@@ -6,6 +6,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9198&layout=compact&theme=blue-green)](https://github.com/ayushgupta9198/ayushgupta9198)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9198&layout=compact&theme=blue-green<img align="center")](https://github.com/ayushgupta9198/ayushgupta9198)
+
+
 - 🔭 I’m currently working on    **""Confidential""**
 
 - 🌱 I’m currently learning **Other aspects of Data Science | AI-ML-DL**
@@ -47,14 +50,3 @@
   <img src="https://contributors-img.web.app/image?repo=LeCoupa/awesome-cheatsheets" />
 </a></p>
 
-
-
-
-
-
-<a href="https://github.com/ayushgupta9198/ayushgupta9198">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushgupta9198&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
