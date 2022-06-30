@@ -5,9 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9198&layout=compact&theme=blue-green)](https://github.com/ayushgupta9198/ayushgupta9198)
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9198&" alt="ayushgupta9198" /></p>
-
 
 - 🔭 I’m currently working on    **""Confidential""**
 
@@ -45,4 +43,3 @@
 <p align="center"><a href="https://github.com/LeCoupa/awesome-cheatsheets/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=LeCoupa/awesome-cheatsheets" />
 </a></p>
-
