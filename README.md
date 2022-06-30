@@ -5,10 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9198&layout=compact&theme=blue-green)](https://github.com/ayushgupta9198/ayushgupta9198)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9198&layout=compact&theme=blue-green<img align="center")](https://github.com/ayushgupta9198/ayushgupta9198)
-
-
 - 🔭 I’m currently working on    **""Confidential""**
 
 - 🌱 I’m currently learning **Other aspects of Data Science | AI-ML-DL**
