@@ -5,7 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9198&layout=compact&theme=blue-green)](https://github.com/ayushgupta9198/ayushgupta9198)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9198&" alt="ayushgupta9198" /></p>
 
 - 🔭 I’m currently working on    **""Confidential""**
 
@@ -26,6 +25,10 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Waxcb9VXg_Qr9Ge5i4VTwT-kdOYbi2Ui/view?usp=sharing](https://drive.google.com/file/d/1Waxcb9VXg_Qr9Ge5i4VTwT-kdOYbi2Ui/view?usp=sharing)
 
 - ⚡ YouTube **https://www.youtube.com/channel/UC4T71mV-DuVRePclKdbs11Q**
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9198&" alt="ayushgupta9198" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
